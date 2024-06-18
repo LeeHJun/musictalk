@@ -66,7 +66,9 @@
                     android:ems="10"
                     android:hint=" 이름"
                     android:inputType="textPersonName"
-                    android:text="" />
+                    android:text=""
+                    android:privateImeOptions="defaultInputmode=korean"
+                    />
 
                 <TextView
                     android:id="@+id/signIDtext"
@@ -86,6 +88,7 @@
                     android:ems="10"
                     android:hint=" 아이디"
                     android:inputType="textPersonName"
+
                     android:text="" />
 
                 <TextView
@@ -109,6 +112,7 @@
                         android:layout_height="40dp"
                         android:layout_marginBottom="20dp"
                         android:layout_marginRight="10dp"
+
                         android:ems="10"
                         android:hint=" 년(4자)"
                         android:inputType="textPersonName"
@@ -128,7 +132,6 @@
                         android:layout_width="100dp"
                         android:layout_height="40dp"
                         android:layout_marginBottom="20dp"
-
                         android:ems="10"
                         android:hint=" 일"
                         android:inputType="textPersonName"
