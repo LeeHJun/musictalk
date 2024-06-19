@@ -10,3 +10,12 @@
 This project is a music sharing community application. By utilizing sign-up and login features, we can secure users who can share their favorite music. Users can receive music recommendations from others through desired music genre boards, and they can communicate with users who have similar tastes through messaging. Desired music can be listened to through a search function that links to YouTube.
 
 In this way, it is a music sharing community application where users can listen to and share their desired music with others.
+
+작업환경
+* Android Studio - 2021.12 ver.
+
+언어
+* Java
+
+데이터베이스
+* firebase - RealtimeDataBase
