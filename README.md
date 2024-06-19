@@ -12,7 +12,7 @@ This project is a music sharing community application. By utilizing sign-up and 
 In this way, it is a music sharing community application where users can listen to and share their desired music with others.
 
 작업환경
-* Android Studio - 2021.12 ver.
+* Android Studio - 2021.3 ver.
 
 언어
 * Java
