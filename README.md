@@ -13,6 +13,10 @@ In this way, it is a music sharing community application where users can listen 
 
 작업환경
 * Android Studio - 2021.3 ver.
+* Sdk Version    - sdk32
+* JDK Version    - JDK 17
+* Gradle version - gradle-7.4
+* AVD            - Pixel 2 API 31 
 
 언어
 * Java
